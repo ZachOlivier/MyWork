@@ -1,0 +1,41 @@
+Engine Notes
+
+if (isAwesome)
+{
+x=5;
+}
+else
+{
+x=3;
+}
+
+^^^^^^
+x = isAwesome?5:3;
+
+
+
+*BFxr for sound effects!
+
+
+
+Embed image -> class type "Class" -> Images are Bitmaps -> Create a bitmap variable for image "Class" variable
+
+
+
+*HxR for hacking!
+
+
+
+*Copy files over for image and font embedding (theleagueofmoveabletype.com)
+
+
+
+*Resources file for embedded contents
+
+
+
+Static classes are for class types that won't change
+
+
+
+"MovieClip" class type is any movie clip made within Flash *Must add to library .swc file* .swc is a .zip file
