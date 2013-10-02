@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{b465af0d-3a6d-42ed-acef-851e47774dc8}</UniqueIdentifier>
+      <Extensions>txt;cpp;h"n</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bar Chart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Backdrop.bmp" />
+    <None Include="Sprite.bmp" />
+  </ItemGroup>
+</Project>

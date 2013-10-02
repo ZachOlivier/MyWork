@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveColors2", "FiveColors2\FiveColors2.csproj", "{AB7D095D-4761-4F23-9B6B-B1E53856807D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7D095D-4761-4F23-9B6B-B1E53856807D}.Debug|x86.ActiveCfg = Debug|x86
+		{AB7D095D-4761-4F23-9B6B-B1E53856807D}.Debug|x86.Build.0 = Debug|x86
+		{AB7D095D-4761-4F23-9B6B-B1E53856807D}.Release|x86.ActiveCfg = Release|x86
+		{AB7D095D-4761-4F23-9B6B-B1E53856807D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

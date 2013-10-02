@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Octagon Pattern", "Octagon Pattern\Octagon Pattern.vcproj", "{68FD6A9D-8CD3-4A5B-9937-42303523DC17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FD6A9D-8CD3-4A5B-9937-42303523DC17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68FD6A9D-8CD3-4A5B-9937-42303523DC17}.Debug|Win32.Build.0 = Debug|Win32
+		{68FD6A9D-8CD3-4A5B-9937-42303523DC17}.Release|Win32.ActiveCfg = Release|Win32
+		{68FD6A9D-8CD3-4A5B-9937-42303523DC17}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bar Chart", "Bar Chart\Bar Chart.vcxproj", "{DAB53454-9F65-4324-BC7E-E64AB7D160C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB53454-9F65-4324-BC7E-E64AB7D160C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAB53454-9F65-4324-BC7E-E64AB7D160C2}.Debug|Win32.Build.0 = Debug|Win32
+		{DAB53454-9F65-4324-BC7E-E64AB7D160C2}.Release|Win32.ActiveCfg = Release|Win32
+		{DAB53454-9F65-4324-BC7E-E64AB7D160C2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
